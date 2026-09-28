@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ai_sessions/
+.ai_logs/
+.ai_history
+.env
