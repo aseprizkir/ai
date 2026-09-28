@@ -1,4 +1,4 @@
-# Instalasi & Penggunaan di Termux
+# Instalasi & Penggunaan di Termux Android
 
 ## 1. Persiapan Termux
 
